@@ -1,0 +1,1 @@
+echo "stressed" | rev
