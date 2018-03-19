@@ -7,9 +7,9 @@ for word in data_list:
         target = word[1:-1]
         target = ''.join(random.sample(target, len(target)))
         word = word[0] + target + word[-1]
-        print word
+        print word,
     else:
-        print word 
+        print word,
 
 
         
