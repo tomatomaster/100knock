@@ -1,3 +1,5 @@
+# https://qiita.com/trsqxyz/items/a5a74d73e5852b84c07c
+
 import random
 
 data = "I couldn't believe that I could actually understand what I was reading : the phenomenal power of the human mind ."
